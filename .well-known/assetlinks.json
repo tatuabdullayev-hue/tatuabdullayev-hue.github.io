@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.tatuabdullayev_hue.doriyordam",
+        "sha256_cert_fingerprints": ["3E:53:76:47:7E:11:87:5C:9B:80:5E:5E:DF:C2:49:57:63:1F:F1:52:62:77:69:2C:43:E5:78:05:5A:55:C3:11"]
+      }
+    }]
