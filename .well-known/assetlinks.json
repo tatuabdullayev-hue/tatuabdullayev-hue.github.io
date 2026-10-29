@@ -1,8 +1,26 @@
-[{
-      "relation": ["delegate_permission/common.handle_all_urls"],
-      "target": {
-        "namespace": "android_app",
-        "package_name": "io.github.tatuabdullayev_hue.mediscan",
-        "sha256_cert_fingerprints": ["FF:28:F6:41:6D:E6:27:F6:41:68:5D:78:FB:5D:C2:90:7A:C7:7D:13:DB:6B:12:A3:82:78:4B:41:E8:08:9E:1D"]
-      }
-    }]
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.tatuabdullayev_hue.mediscan",
+      "sha256_cert_fingerprints": [
+        "FF:28:F6:41:6D:E6:27:F6:41:68:5D:78:FB:5D:C2:90:7A:C7:7D:13:DB:6B:12:A3:82:78:4B:41:E8:08:9E:1D"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.tatuabdullayev_hue.pedicare",
+      "sha256_cert_fingerprints": [
+        "C4:3E:3B:FF:49:AF:78:16:0D:97:7E:BF:2B:1E:E0:F3:2B:28:52:8A:C9:11:D3:0F:6F:2D:22:5F:22:71:63:AB"
+      ]
+    }
+  }
+]
